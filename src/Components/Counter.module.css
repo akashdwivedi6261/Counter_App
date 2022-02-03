@@ -1,0 +1,11 @@
+.main {
+  width: 90%;
+  margin: 1rem auto;
+}
+
+.main > button {
+  margin-right: 1rem;
+  padding: 1.2px;
+  background-color: teal;
+  font-size: 16px;
+}
